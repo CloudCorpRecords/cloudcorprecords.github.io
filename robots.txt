@@ -1,5 +1,5 @@
-# cloudcorprecords.github.io — robots.txt
-# Policy: this site exists to be read — by people, search engines,
+# cloudcorprecords.github.io: robots.txt
+# Policy: this site exists to be read: by people, search engines,
 # and AI agents alike. Named AI agents are explicitly welcome.
 
 User-agent: *
